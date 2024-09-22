@@ -1,6 +1,6 @@
 THIS PROJECT IS STILL UNDERDEVELOPMENT 
 
-This is our very first blockchain based project so we are still very new to this ecosystem so we were unable to complete this project within our required time 
+This is our very first blockchain based project so we are still very new to this ecosystem so we were unable to complete this project within the alloted time, 
 however we do have a very decent idea for this project which we hope will make a difference and bring more people to the world of blockchain
 
 THE CONCEPT!!!
